@@ -23,3 +23,8 @@ For Mac users, I highly recommend iTerm 2.
 ```
     <current date>
 ```
+
+#### Requirements
+
+- [`bc`](https://www.gnu.org/software/bc/manual/bc.html)
+- [`git`](https://git-scm.com/)
